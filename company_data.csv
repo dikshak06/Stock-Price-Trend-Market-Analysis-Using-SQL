@@ -1,0 +1,501 @@
+company_id,company_name,sector,market_cap
+766,Clarke-Williams,Finance,25474.4
+757,"Klein, Garcia and Lewis",Energy,12738.49
+822,"Lara, Perkins and Gibson",Healthcare,30807.64
+323,Lawson-Johnson,Finance,1803.6
+881,Hobbs-Walker,Technology,41420.85
+751,Smith Inc,Finance,28623.13
+434,Gilbert Ltd,Finance,36612.88
+146,Cooper LLC,Energy,18769.78
+670,Sims PLC,Finance,12141.71
+132,Porter Group,Technology,25277.09
+112,"Davis, Howard and Mccann",Healthcare,11502.54
+521,Webb-Perez,Technology,28715.48
+693,"Lara, Rivera and Rodriguez",Finance,17676.7
+332,Gomez LLC,Healthcare,6358.6
+663,Bates Ltd,Finance,30770.43
+294,"Drake, Horne and James",Finance,34158.48
+410,Lopez-Pineda,Technology,27303.51
+487,Rose-Lee,Technology,30023.86
+685,Flores-Young,Retail,18703.97
+744,"Daniel, Clements and Booth",Retail,23711.42
+972,Fox and Sons,Healthcare,33317.84
+649,Thompson Group,Retail,22466.27
+669,Hurst Group,Energy,13616.39
+437,Lopez-Castillo,Technology,26627.87
+605,Wilcox Group,Energy,11350.96
+792,Smith LLC,Technology,16144.54
+890,Carpenter and Sons,Retail,43855.41
+238,Myers and Sons,Healthcare,39714.86
+517,Gonzalez-Park,Technology,49454.7
+397,"Davis, Davis and Wolf",Retail,17854.12
+743,Grant PLC,Technology,1550.55
+250,Thompson-Frost,Energy,36199.28
+713,Castillo-Robinson,Finance,39437.98
+940,Frazier Group,Technology,20003.98
+668,"Wilkinson, Flores and Robbins",Retail,36775.86
+747,Perez-Underwood,Energy,15867.79
+249,Johnson-Gilmore,Technology,12235.64
+428,Williams-Harris,Healthcare,1484.88
+459,"Turner, Burns and Vaughn",Healthcare,17726.6
+110,Gallegos PLC,Energy,34772.78
+833,Santana PLC,Healthcare,39944.14
+826,Silva and Sons,Energy,30661.12
+245,Wright Ltd,Energy,26627.23
+222,Atkins LLC,Technology,10913.55
+573,Payne-Murphy,Technology,41479.48
+257,Nelson and Sons,Retail,21859.26
+356,"Miller, Bryant and Brown",Healthcare,5562.15
+599,Glenn PLC,Energy,15701.36
+235,Hall Group,Energy,45495.81
+288,Lang LLC,Healthcare,38758.7
+615,"Marks, Freeman and Moody",Healthcare,4085.61
+923,Cruz-Garcia,Finance,23483.13
+251,Robinson PLC,Healthcare,19327.03
+113,"Walton, Bridges and Walters",Energy,34899.29
+526,"Abbott, Hall and Mendoza",Retail,728.26
+341,Compton-Cooper,Technology,3201.24
+480,Smith-Chandler,Healthcare,40035.19
+833,"Jimenez, Evans and Perez",Technology,15749.64
+428,Price and Sons,Technology,36454.54
+775,Myers PLC,Technology,5758.58
+930,"Cummings, King and Williams",Finance,12249.7
+857,Stone-Roy,Technology,23497.76
+271,"Nguyen, Sims and Brown",Healthcare,25973.61
+198,Vargas Group,Retail,24440.25
+337,"Allen, Holden and Jones",Energy,20049.91
+369,Collins-Moore,Finance,14978.42
+788,"Morris, Lane and Clarke",Finance,49826.88
+887,Schmidt Group,Technology,45292.42
+958,"Hughes, Patel and Hoffman",Technology,34534.61
+280,"Singh, Miller and Ward",Technology,43345.83
+776,"Hood, Hall and Riley",Retail,10326.36
+576,Hill-Cook,Healthcare,3228.2
+266,Perez and Sons,Energy,33747.24
+377,Campbell LLC,Healthcare,45903.6
+663,Cummings-Martinez,Technology,17009.46
+571,Williams Inc,Finance,22732.42
+880,Wheeler Group,Energy,43872.28
+720,Blair-Hill,Technology,49290.88
+246,"Dennis, Mills and Pham",Technology,2622.07
+418,Jackson-Moore,Finance,22913.47
+771,Moore PLC,Retail,21439.38
+696,Jackson Inc,Finance,16773.63
+473,Hart-Castillo,Technology,27794.56
+686,Burton LLC,Retail,38181.24
+120,"Romero, Smith and Evans",Healthcare,36818.5
+885,"Hanson, Perry and Gonzalez",Energy,12131.52
+181,Campbell Ltd,Technology,1565.18
+952,"Ferguson, Ferguson and Moore",Energy,44754.47
+582,"Reynolds, Campbell and Young",Healthcare,15528.26
+274,Johnson-Velez,Healthcare,12015.49
+663,"Johnson, Salas and York",Healthcare,11492.35
+402,Moore-Barnett,Technology,19471.92
+780,Perez PLC,Technology,3092.74
+334,Nelson and Sons,Technology,18032.45
+515,"Davis, Foster and Clark",Retail,48513.74
+407,"Goodman, Rhodes and Mcbride",Energy,43147.41
+815,Travis Inc,Healthcare,27196.45
+180,Wilson Ltd,Technology,25775.9
+459,Cole-Smith,Technology,26892.59
+818,Daugherty Ltd,Finance,7229.9
+637,Miller-Rose,Retail,18345.68
+170,Hawkins-Cooper,Technology,24010.56
+456,Andrade-Singleton,Healthcare,18956.67
+776,"Martin, Weber and Jones",Technology,15054.44
+924,"Parker, Thomas and Lee",Technology,23311.3
+476,Kelley-Keller,Finance,45696.41
+570,Christian Inc,Retail,11875.5
+212,"Raymond, Griffin and Holt",Retail,749.82
+146,"Santos, Salinas and Mitchell",Technology,45046.95
+770,Nicholson and Sons,Technology,43339
+152,"Powell, Barry and Miranda",Retail,1454.15
+982,"Jackson, Schroeder and Mitchell",Finance,29138.83
+123,Shaw-Jones,Finance,14946.18
+823,Wilson-Avila,Technology,8134.35
+864,Yang-Rodriguez,Energy,21824.86
+133,"Ramsey, Mclaughlin and Morales",Energy,30248.04
+691,Pope Group,Finance,48688.52
+399,Hunt PLC,Energy,22640.19
+585,"Smith, Green and Mccarthy",Energy,44441.26
+346,Robbins Inc,Technology,19612.35
+646,"Wright, Gray and Shaffer",Technology,1887.97
+192,Tate PLC,Finance,48393.62
+837,"Garcia, Trevino and Charles",Energy,38807.65
+574,"Wiley, Lee and Moran",Energy,9069.44
+787,Gallagher Inc,Energy,14111.27
+606,"Romero, Kirby and Edwards",Retail,24458.83
+562,Mitchell-Price,Finance,25380.79
+137,Manning-Gaines,Energy,11801.94
+608,Duarte Ltd,Technology,38180.15
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+123,"Warren, Allen and Reyes",Technology,34562.48
